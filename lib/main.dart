@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'features/memory_game/presentation/pages/memory_game_screen.dart';
+import 'features/memory_game/presentation/pages/welcome_screen.dart';
 
 void main() {
-  runApp(const MyApp() );
+  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
         colorSchemeSeed: Colors.indigo,
       ),
-      home: MemoryGameScreen(),
+      home: const WelcomeScreen(),
     );
   }
 }

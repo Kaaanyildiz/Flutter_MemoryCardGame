@@ -1,5 +1,5 @@
-import 'package:twistcardgame/features/memory_game/domain/repositories/memory_game_repositorty.dart';
 import '../../domain/models/card_model.dart';
+import '../../domain/repositories/memory_game_repositorty.dart';
 import '../datasources/memory_game_local_data_source.dart';
 
 class MemoryGameRepositoryImpl implements MemoryGameRepository {
@@ -8,7 +8,7 @@ class MemoryGameRepositoryImpl implements MemoryGameRepository {
   MemoryGameRepositoryImpl({required this.localDataSource});
 
   @override
-  Future<List<CardModel>> getCards() async {
-    return await localDataSource.getCards();
+  Future<List<CardModel>> getCards(int pairCount) {
+    return localDataSource.getShuffledCards(pairCount);
   }
 }
