@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/images/logo.png" alt="Memory Match Logo" width="200"/>
+  <img src="https://github.com/user-attachments/assets/b2166fb3-70f3-4285-a33a-b656f04d539f" alt="Memory Match Logo" width="200"/>
   <h1>Memory Match</h1>
   <p>🧠 Flutter ile Geliştirilmiş Eğlenceli Hafıza Eşleştirme Oyunu</p>
   
@@ -15,8 +15,12 @@
 Memory Match, Flutter ile geliştirilmiş eğlenceli bir hafıza kartı eşleştirme oyunudur. Bu oyun, kullanıcıların hafıza becerilerini test etmelerini ve geliştirmelerini sağlayan interaktif bir deneyim sunar.
 
 <div align="center">
-  <!-- Burada bir GIF eklerseniz çok daha etkileyici olur -->
-  <img src="assets/images/screenshot.png" alt="Memory Match Game" width="70%"/>
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/3ea3ea0f-faed-42f5-9f82-9596d9c0e079" width="100%" alt="Ana Menü"></td>
+      <td><img src="https://github.com/user-attachments/assets/3ca1c423-d6ee-4173-aaa7-74c89f369521" width="100%" alt="Oyun Ekranı"></td>
+    </tr>
+  </table>
 </div>
 
 ## 🎮 Özellikler
@@ -66,9 +70,19 @@ Memory Match, Flutter ile geliştirilmiş eğlenceli bir hafıza kartı eşleşt
 <div align="center">
   <table>
     <tr>
-      <td><img src="assets/images/screenshot1.png" width="100%" alt="Ana Menü"></td>
-      <td><img src="assets/images/screenshot2.png" width="100%" alt="Oyun Ekranı"></td>
-      <td><img src="assets/images/screenshot3.png" width="100%" alt="Sonuç Ekranı"></td>
+      <td><img src="https://github.com/user-attachments/assets/24bdea44-92a8-4cfa-bc4f-d367003cb34c" width="100%" alt="Ana Menü"></td>
+      <td><img src="https://github.com/user-attachments/assets/83ec6544-c636-4cab-ac9e-9e09ee927a3b" width="100%" alt="Oyun Ekranı"></td>
+      <td><img src="https://github.com/user-attachments/assets/19d42e9d-1c5d-45e3-a1e1-cf54125e1d48" width="100%" alt="Sonuç Ekranı"></td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+        <td><img src="https://github.com/user-attachments/assets/7407346b-7661-4040-bb1d-b3435a79ba73" width="100%" alt="Ana Menü"></td>
+      <td><img src="https://github.com/user-attachments/assets/0512b6c4-55fa-4dcb-873c-aa4fa0e04b23" width="100%" alt="Oyun Ekranı"></td>
+      <td><img src="https://github.com/user-attachments/assets/f6f94956-cedc-476c-8edd-668987caa15c" width="100%" alt="Sonuç Ekranı"></td>
     </tr>
   </table>
 </div>
